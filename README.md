@@ -14,8 +14,11 @@ Android_Intent
 
 运行截图：
 
+![Image text](https://github.com/zhanglei742/Intent/blob/master/picture/1.png)
 
 
 # 新建一个工程使用WebView来加载URL
 跳转之后，出现选择项，选择自定义的MyBrowser进行浏览
+运行截图：
 
+![Image text](https://github.com/zhanglei742/Intent/blob/master/picture/2.png)
